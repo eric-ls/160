@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/pre-dexed/debug/classes-b244508265c28275d57dc729c63257c9c63fca9b.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/pre-dexed/debug/classes-a3610649f5d12b1b32532ed57aadc335834fe7a6.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-6eb293c97d78fee8b5400354d1330e00ed1af1ed.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/pre-dexed/debug/classes-660cd24d717b675f08ec9e209bd0e4d3836b58a5.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/pre-dexed/debug/classes-790acc6f64a54b8a05accae1fe75362e1f5b69dc.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b102375773d9ecde3b760404d99aa5fc8bbafe99.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/pre-dexed/debug/classes-fd151cc18c1a4eb320328d6e0ae59b36c596c556.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/Eric/Developer/android/AgeConverter/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c78bb238cbe279f76d0cb1768bab73b821e2231b.jar" />
+    </item>
+    <item
+        jar="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/Eric/Developer/repos/cs160/hw-prog-submissions/prog1/app/build/intermediates/pre-dexed/debug/classes-632a711e532cfdc9fd3f5202933c32764c67b9ad.jar" />
+    </item>
+
+</items>

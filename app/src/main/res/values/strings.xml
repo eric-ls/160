@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Age Converter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="convert_from_label">Convert from</string>
+    <string name="convert_to_label">Convert to</string>
+    <string name="age_label">Age:</string>
+
+    <string-array name="animals_from_array">
+        <item>Human</item>
+        <item>Oski</item>
+        <item>Cat</item>
+        <item>Dog</item>
+        <item>Hamster</item>
+        <item>Hippopotamus</item>
+        <item>Kangaroo</item>
+    </string-array>
+
+    <string-array name="animals_to_array">
+        <item>Oski</item>
+        <item>Human</item>
+        <item>Cat</item>
+        <item>Chicken</item>
+        <item>Cow</item>
+        <item>Deer</item>
+        <item>Dog</item>
+        <item>Duck</item>
+        <item>Elephant</item>
+        <item>Fox</item>
+        <item>Goat</item>
+        <item>Groundhog</item>
+        <item>Guinea pig</item>
+        <item>Hamster</item>
+        <item>Hippopotamus</item>
+        <item>Horse</item>
+        <item>Kangaroo</item>
+        <item>Lion</item>
+        <item>Monkey</item>
+        <item>Mouse</item>
+        <item>Parakeet</item>
+        <item>Pig</item>
+        <item>Pigeon</item>
+        <item>Rabbit</item>
+        <item>Rat</item>
+        <item>Sheep</item>
+        <item>Squirrel</item>
+        <item>Wolf</item>
+    </string-array>
+</resources>
